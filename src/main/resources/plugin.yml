@@ -1,0 +1,9 @@
+name: ${project.name}
+description: Minecraft Status and Potion affects that are applied for a Worldguard region
+author: Drekryan
+main: com.drekryan.wrereloaded.WREReloaded
+version: ${project.version}
+depend: [WorldGuard, WorldEdit]
+commands:
+   wrereloaded:
+      usage: /wrereloaded
